@@ -43,6 +43,6 @@ Basket: 001, 002, 001, 003, 001
 Total price expected: £73.76
 ```
 
-##Run  
+## Run  
 With argument representing testing row index, starts from 0, so for example:  
 `ruby script.rb 0`
